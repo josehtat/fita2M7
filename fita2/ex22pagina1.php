@@ -7,8 +7,8 @@
 </head>
 <body>
     <form method="POST">
-        <label for="quantitat">Introdueix la quantitat de comandes:</label>
-        <input type="number" id="quantitat" name="quantitat" min="1" required>
+        <label for="quantitat">Quantitat: </label>
+        <input type="number" id="quantitat" name="quantitat">
         <button type="submit">Enviar</button>
     </form>
 </body>
